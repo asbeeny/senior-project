@@ -2,7 +2,8 @@ This is my senior project for Applied Mathematics at Southern Illinois Universit
 
 ## To Do
 - [ ] Clean up repository.
+- [x] Add matrix example back in.
 - [ ] Produce image figures.
-- [ ] Add compression ratio table.
-- [ ] Edit the decomposition and reconstruction section.
-- [ ] Create image compression process diagram.
+- [x] Add compression ratio table.
+- [x] Edit the decomposition and reconstruction section.
+- [x] Create image compression process diagram.

@@ -1,0 +1,28 @@
+\documentclass[tikz]{standalone}
+\begin{document}
+\tikzset{%
+  block/.style = {%
+    draw,
+    thick,
+    rectangle,
+    text width = 7em,
+    text centered,
+    minimum height = 3em,
+    minimum width = 3em}
+}
+\begin{tikzpicture}[auto, thick, node distance=4cm]
+  \draw
+    node at (0,0) [block, name=imgIn] {Image}
+    node [block, right of=imgIn, name=haarT] {Wavelet Decomposition}
+    node [block, right of=haarT, name=thr] {Thresholding}
+    node [block, below of=thr, node distance=2cm, name=cmp] {Compression}
+    node [block, left of=cmp, name=haarInv] {Wavelet Reconstruction}
+    node [block, left of=haarInv, name=imgOut] {Compressed Image}
+  ;
+  \draw[-latex] (imgIn) -- (haarT);
+  \draw[-latex] (haarT) -- (thr);
+  \draw[-latex] (thr) -- (cmp);
+  \draw[-latex] (cmp) -- (haarInv);
+  \draw[-latex] (haarInv) -- (imgOut);
+\end{tikzpicture}
+\end{document}
