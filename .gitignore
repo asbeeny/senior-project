@@ -1,4 +1,5 @@
 *.aux
 *.log
 *.synctex.gz
+*.blg
 /_minted-project/
