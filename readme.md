@@ -7,4 +7,4 @@ This is my senior project for Applied Mathematics at Southern Illinois Universit
 - [x] Add compression ratio table.
 - [x] Edit the decomposition and reconstruction section.
 - [x] Create image compression process diagram.
-- [ ] Finish bibliography and add citations.
+- [x] Finish bibliography.
