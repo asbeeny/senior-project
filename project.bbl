@@ -5,6 +5,11 @@ Edward Aboufadel and Steven Schlicker.
 \newblock {\em Discovering Wavelets}.
 \newblock John Wiley \& Sons, 1999.
 
+\bibitem{ten-lectures}
+Ingrid Daubechies.
+\newblock {\em Ten Lectures on Wavelets}.
+\newblock SIAM, 1992.
+
 \bibitem{wavelet-tour}
 Stephane Mallat.
 \newblock {\em A Wavelet Tour of Signal Processing: The Sparse Way}.
