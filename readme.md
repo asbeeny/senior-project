@@ -8,4 +8,4 @@ This is my senior project for Applied Mathematics at Southern Illinois Universit
 - [x] Edit the decomposition and reconstruction section.
 - [x] Create image compression process diagram.
 - [x] Finish bibliography.
-- [ ] Revise
+- [x] Revise
