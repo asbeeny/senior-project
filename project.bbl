@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{discovering}
+Edward Aboufadel and Steven Schlicker.
+\newblock {\em Discovering Wavelets}.
+\newblock John Wiley \& Sons, 1999.
+
+\bibitem{ten-lectures}
+Ingrid Daubechies.
+\newblock {\em Ten Lectures on Wavelets}.
+\newblock SIAM, 1992.
+
+\bibitem{wavelet-tour}
+St\'ephane Mallat.
+\newblock {\em A Wavelet Tour of Signal Processing: The Sparse Way}.
+\newblock Academic Press, Inc., 3rd edition, 2008.
+
+\bibitem{matlab}
+Richard E.~Woods Rafael C.~Gonzalez and Steven~L. Eddins.
+\newblock {\em Digital Image Processing Using MATLAB}.
+\newblock McGraw Hill, 2nd edition, 2011.
+
+\end{thebibliography}
